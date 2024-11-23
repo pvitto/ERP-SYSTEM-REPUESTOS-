@@ -1,0 +1,4 @@
+admin,admin123,admin,2024-11-23 08:54:51,167,EliminarRe:false;Todo:true;IngresarRe:false;ListarRe:false;ModificarRe:false;
+pmancini,paolo34,usuario,2024-11-23 08:58:04,32,EliminarRe:false;Todo:false;IngresarRe:false;ListarRe:false;ModificarRe:true;
+jyance,543,usuario,2024-11-23 09:02:54,20,EliminarRe:true;Todo:false;IngresarRe:true;ListarRe:false;ModificarRe:false;
+cacosta,12345,admin,2024-11-23 09:01:50,87,EliminarRe:false;Todo:true;IngresarRe:false;ListarRe:false;ModificarRe:false;
